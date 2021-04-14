@@ -1,0 +1,2 @@
+1. add steppings to generate iso image
+2. add steppings to cut off rpms and add new rpms
